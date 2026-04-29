@@ -20,6 +20,7 @@
 - **magika**: magika 是一个可以用于内容识别和类型检测的 AIpowered 工具，能够
 - **nltk**: NLTK 是一个综合性的自然语言处理工具包，包含了文本情感分析和语义推理的功能。
 - **transformers**: transformers 是一个模型定义框架，用于高级自然语言处理和对话模型开发
+- **sherlock**: sherlock能够帮助寻找用户的社交媒体账号信息，在社交网络分析中具有直接的应
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
