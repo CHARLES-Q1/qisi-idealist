@@ -15,6 +15,7 @@
 - **spacy**: spaCy 是一个工业级的自然语言处理工具，提供了实体识别功能，可以直接弥补腔室
 - **python-algorithms**: 这个库包含了大量的科学计算和统计分析算法，直接弥补了腔室缺口的需求。
 - **transformers**: transformers是基于transformers框架的工具，具有强大的模型
+- **networkx**: networkx 是一个专门用于网络分析的库，它支持社交网络分析，包括节点之间的
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
