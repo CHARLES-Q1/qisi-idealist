@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **transformers**: transformers是基于transformers框架的工具，具有强大的模型
 - **networkx**: networkx 是一个专门用于网络分析的库，它支持社交网络分析，包括节点之间的
 - **pyod**: pyod 库提供了广泛的异常检测算法和工具，能够处理不同类型的数据，包括时间序列
 - **networkx**: NetworkX 具有强大的图网络建模能力，可以处理复杂系统的连接关系和二阶效应
@@ -20,6 +19,7 @@
 - **pykalman**: pykalman提供了卡尔曼滤波、平滑和EM算法的实现，非常适合用于优化个人财务
 - **scikit-learn**: scikit-learn是Python中一个流行的机器学习库，能够帮助构建预测模
 - **scikit-learn**: scikit-learn 是一个机器学习库，提供了广泛的算法和工具，可以用于构建
+- **nltk**: NLTK是自然语言处理和文本分析的直接工具，能够弥补腔室缺口。
 ## 最新洞见
 
 > **收敛洞见**:
