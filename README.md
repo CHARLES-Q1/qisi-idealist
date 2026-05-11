@@ -19,6 +19,7 @@
 - **nltk**: NLTK 是一个用于自然语言处理的工具包，它提供了多种功能，包括文本分词、词性标
 - **sherlock**: sherlock 可以用来发现社交媒体账号，弥补了原先用 graph-tool 
 - **networkx**: NetworkX 是一个专门用于网络分析和复杂系统建模的库，直接弥补了腔室缺口的
+- **tqsdk**: tqsdk-python是一个用于期货量化和实盘交易的开发包，能够提供实时行情和
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
