@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **loguru**: loguru 是一个专门用于日志记录和调试的 Python 库，能够方便地进行日
 - **sherlock**: Sherlock 是一个专门用于社交网络分析的工具，可以帮助你找到指定用户名的社
 - **scikit-learn**: scikit-learn 提供了广泛的机器学习算法和工具，直接弥补了腔室缺口。
 - **nltk**: NLTK 是最直接相关的工具，提供了丰富的功能和数据用于情绪分析和情绪检测。
@@ -20,6 +19,7 @@
 - **statsmodels**: statsmodels 是一个专门用于统计分析和经济计量学的 Python 库，
 - **geopy**: geopy 是一个专门用于地理位置数据处理和分析的库，直接弥补了 geopy 用
 - **scikit-learn**: scikit-learn 是一个强大的机器学习库，提供了各种算法和工具，能够帮助
+- **sherlock**: sherlock可以帮助寻找和汇总社交媒体账户信息，直接弥补了对社交网络分析的支
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
