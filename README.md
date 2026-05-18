@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **networkx**: NetworkX 是一个用于创建和分析复杂网络的 Python 库，能够直接弥补
 - **statsmodels**: statsmodels 是一个专门用于统计分析和经济计量学的 Python 库，
 - **geopy**: geopy 是一个专门用于地理位置数据处理和分析的库，直接弥补了 geopy 用
 - **scikit-learn**: scikit-learn 是一个强大的机器学习库，提供了各种算法和工具，能够帮助
@@ -20,6 +19,7 @@
 - **networkx**: NetworkX 是一个专门用于网络分析和趋势识别的工具包，能够直接弥补腔室缺口
 - **nltk**: NLTK 是一个用于自然语言处理的工具包，直接弥补了腔室缺口的需求。
 - **pykalman**: pykalman 提供了 Kalman Filter、Smoother 和 EM
+- **spacy**: spaCy 是一个工业级别的自然语言处理（NLP）库，在 Python 中提供了
 ## 最新洞见
 
 > 1. **收敛洞见**：
