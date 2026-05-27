@@ -11,22 +11,16 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **pykalman**: pykalman 提供了 Kalman Filter、Smoother 和 EM
 - **spacy**: spaCy 是一个工业级别的自然语言处理（NLP）库，在 Python 中提供了
 - **scikit-learn**: scikit-learn是专门用于机器学习和统计模型的构建，直接弥补了腔室缺口。
 - **nltk**: NLTK（Natural Language Toolkit）是Python中用于
 - **sherlock**: Sherlock可以通过用户名在多个社交网络上搜索社交媒体账户，直接弥补了网络分
 - **geopy**: Geopy 是一个专门用于地理位置计算的库，能够直接弥补腔室缺口。
 - **pykalman**: pykalman是一个Python库，提供了Kalman滤波、平滑和EM算法的实
+- **networkx**: NetworkX 是一个用于网络分析和复杂系统模拟的开源 Python 库，它提
 ## 最新洞见
 
-> 稳定信念: 个体的体验和感知不仅仅依赖于视觉感知，还包括其他感官体验和多维感知。
-稳定信念: 位置和外部因素会影响个体的视角和对世界的理解。
-稳定信念: 适应性和多元化策略对于个人财务和适应不确定性环境至关重要。
-
-未解矛盾: 视角的决定性质和对其影响的因素尚未达成一致，存在内部和外部因素对视角的影响的争论。
-
-跃迁: 是 - 系统通过多轮次的演化和综合，形成了对多维感知、视角决定因素和适应性策略
+> [Groq错误: HTTP Error 429: Too Many Requests]
 
 ## 关于Qisi
 
