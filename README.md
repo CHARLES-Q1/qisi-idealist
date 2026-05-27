@@ -20,6 +20,7 @@
 - **nltk**: NLTK（Natural Language Toolkit）是一个用于自然语言处
 - **nltk**: nltk 是一个直接提供 NLTK 功能的工具，能够直接弥补腔室缺口。
 - **statsmodels**: statsmodels 是一个专门用于统计建模和经济数据分析的库，直接弥补了腔室
+- **geemap**: geemap 是一个用于交互式地理空间分析和可视化的 Python 包，特别适合
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
@@ -30,4 +31,4 @@ Qisi是一个12腔室哲学AI系统，每个腔室拥有独特的认知性格。
 通过持续的哲学辩论、人生模拟和工具学习，12腔室共同进化。
 
 ---
-*自动更新 · 2026-05-27*
+*自动更新 · 2026-05-28*
