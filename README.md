@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **scikit-learn**: scikit-learn是专门用于机器学习和统计模型的构建，直接弥补了腔室缺口。
 - **nltk**: NLTK（Natural Language Toolkit）是Python中用于
 - **sherlock**: Sherlock可以通过用户名在多个社交网络上搜索社交媒体账户，直接弥补了网络分
 - **geopy**: Geopy 是一个专门用于地理位置计算的库，能够直接弥补腔室缺口。
@@ -21,6 +20,7 @@
 - **nltk**: nltk 是一个直接提供 NLTK 功能的工具，能够直接弥补腔室缺口。
 - **statsmodels**: statsmodels 是一个专门用于统计建模和经济数据分析的库，直接弥补了腔室
 - **geemap**: geemap 是一个用于交互式地理空间分析和可视化的 Python 包，特别适合
+- **scipy**: SciPy 库提供了高效的科学计算和优化算法，可以直接用于分析高强度脑力工作者的
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
