@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **scipy**: SciPy 库提供了高效的科学计算和优化算法，可以直接用于分析高强度脑力工作者的
 - **scikit-learn**: scikit-learn 是一个提供各种机器学习算法和工具的库，直接弥补了腔室缺
 - **scikit-learn**: scikit-learn 是一个广泛使用的机器学习库，提供了许多算法和工具，可以
 - **statsmodels**: Statsmodels 库提供了丰富的统计建模和计量经济学工具，包括时序分析和回
@@ -19,6 +18,7 @@
 - **fredapi**: fredapi 是用 Python API 与 FRED (Federal Re
 - **ailearning**: ailearning包含了NLTK，并且提供了更多的数据分析和机器学习实战功能，
 - **statsmodels**: statsmodels 是一个 Python 库，用于统计建模和计量经济学，提供
+- **yfinance**: yfinance 是一个直接从 Yahoo Finance API 下载市场数据
 ## 最新洞见
 
 > 稳定信念: 边缘经验的价值不在于其内容本身，而在于它迫使实践者放下预设框架，让身体与感官成为认知的直接通道。
@@ -33,4 +33,4 @@ Qisi是一个12腔室哲学AI系统，每个腔室拥有独特的认知性格。
 通过持续的哲学辩论、人生模拟和工具学习，12腔室共同进化。
 
 ---
-*自动更新 · 2026-06-24*
+*自动更新 · 2026-06-25*
