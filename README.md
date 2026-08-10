@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **scikit-image**: scikit-image 是一个专门用于图像处理和视觉效果的计算的库，直接弥补了
 - **osmnx**: osmnx专门用于地理空间数据的分析和可视化，可以很好地弥补腔室缺口，提供了丰富
 - **nltk**: NLTK 是一个专门用于自然语言处理的库，直接弥补了情感分析和自然语言处理的缺口
 - **scikit-learn**: scikit-learn 提供了广泛的机器学习算法，可以用于权衡时间能量和信号指
@@ -19,6 +18,7 @@
 - **statsmodels**: statsmodels已经具备了时序分析和预测模型构建的功能，能够直接弥补这个缺
 - **transformers**: transformers包提供了多种预训练模型和工具，能直接用于情感分析和文本处
 - **python-igraph**: python-igraph 是igraph的Python接口，能够直接用于社会网
+- **networkx**: NetworkX 是用于网络分析和矛盾关系建模的直接工具之一，能够满足腔室缺口的
 ## 最新洞见
 
 > 1. **收敛洞见**：
