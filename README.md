@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **transformers**: transformers 包含了多种预训练语言模型，直接适用于自然语言处理与情感
 - **statsmodels**: statsmodels已经具备了时序分析和预测模型构建的功能，能够直接弥补这个缺
 - **transformers**: transformers包提供了多种预训练模型和工具，能直接用于情感分析和文本处
 - **python-igraph**: python-igraph 是igraph的Python接口，能够直接用于社会网
@@ -21,6 +20,7 @@
 - **geopy**: geopy 是一个 Python 地理编码库，能够计算地理位置间的距离和方位。
 - **spacy**: spaCy 具有强大的 NLP 能力，包括词法分析、语法分析、实体识别等功能，能
 - **luigi**: Luigi是一个用于构建复杂批处理作业管道的 Python 模块，可以用于复杂网
+- **darts**: darts 提供了强大的时序分析和趋势预测功能，支持多种算法和模型，可以直接弥补
 ## 最新洞见
 
 > 1. **稳定信念：**
