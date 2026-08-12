@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **scikit-learn**: scikit-learn 提供了广泛的机器学习算法，可以用于权衡时间能量和信号指
 - **transformers**: transformers 包含了多种预训练语言模型，直接适用于自然语言处理与情感
 - **statsmodels**: statsmodels已经具备了时序分析和预测模型构建的功能，能够直接弥补这个缺
 - **transformers**: transformers包提供了多种预训练模型和工具，能直接用于情感分析和文本处
@@ -21,6 +20,7 @@
 - **scikit-learn**: scikit-learn 是一个完整的机器学习库，直接弥补了腔室缺口。
 - **geopy**: geopy 是一个 Python 地理编码库，能够计算地理位置间的距离和方位。
 - **spacy**: spaCy 具有强大的 NLP 能力，包括词法分析、语法分析、实体识别等功能，能
+- **luigi**: Luigi是一个用于构建复杂批处理作业管道的 Python 模块，可以用于复杂网
 ## 最新洞见
 
 > 1. **收敛洞见：**
