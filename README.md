@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **scikit-learn**: scikit-learn 是一个完整的机器学习库，直接弥补了腔室缺口。
 - **geopy**: geopy 是一个 Python 地理编码库，能够计算地理位置间的距离和方位。
 - **spacy**: spaCy 具有强大的 NLP 能力，包括词法分析、语法分析、实体识别等功能，能
 - **luigi**: Luigi是一个用于构建复杂批处理作业管道的 Python 模块，可以用于复杂网
@@ -20,6 +19,7 @@
 - **statsmodels**: statsmodels已经提供了时间序列分析和预测模型的构建功能，直接弥补了这个
 - **causalml**: CausalML是直接针对构建和分析二阶效应思维中的因果关系和连锁影响的工具，能
 - **receipt-ocr**: receipt-ocr 专门为商业发票图像处理设计，能够有效识别文本，与 pyt
+- **scikit-learn**: scikit-learn 是一个专门针对机器学习的 Python 库，提供了丰富
 ## 最新洞见
 
 > **收敛洞见:**
