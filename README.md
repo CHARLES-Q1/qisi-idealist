@@ -22,7 +22,7 @@
 - **scikit-learn**: scikit-learn 是一个专门针对机器学习的 Python 库，提供了丰富
 ## 最新洞见
 
-> [Groq错误: Remote end closed connection without response]
+> [Groq错误: HTTP Error 429: Too Many Requests]
 
 ## 关于Qisi
 
