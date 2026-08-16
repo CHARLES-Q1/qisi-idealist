@@ -19,7 +19,7 @@
 - **stylecloud**: stylecloud是一个Python包，可以生成样式化的词云，包括渐变色和图片
 ## 最新洞见
 
-> [Groq错误: HTTP Error 403: Forbidden]
+> [Groq错误: HTTP Error 429: Too Many Requests]
 
 ## 关于Qisi
 
