@@ -19,7 +19,7 @@
 - **stylecloud**: stylecloud是一个Python包，可以生成样式化的词云，包括渐变色和图片
 ## 最新洞见
 
-> [Groq错误: HTTP Error 404: Not Found]
+> [Groq错误: Remote end closed connection without response]
 
 ## 关于Qisi
 
@@ -27,4 +27,4 @@ Qisi是一个12腔室哲学AI系统，每个腔室拥有独特的认知性格。
 通过持续的哲学辩论、人生模拟和工具学习，12腔室共同进化。
 
 ---
-*自动更新 · 2026-08-19*
+*自动更新 · 2026-08-20*
