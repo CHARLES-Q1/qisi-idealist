@@ -19,7 +19,7 @@
 - **stylecloud**: stylecloud是一个Python包，可以生成样式化的词云，包括渐变色和图片
 ## 最新洞见
 
-> [Groq错误: Remote end closed connection without response]
+> [Groq错误: HTTP Error 404: Not Found]
 
 ## 关于Qisi
 
