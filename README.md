@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **statsmodels**: statsmodels已经提供了时间序列分析和预测模型的构建功能，直接弥补了这个
 - **causalml**: CausalML是直接针对构建和分析二阶效应思维中的因果关系和连锁影响的工具，能
 - **receipt-ocr**: receipt-ocr 专门为商业发票图像处理设计，能够有效识别文本，与 pyt
 - **scikit-learn**: scikit-learn 是一个专门针对机器学习的 Python 库，提供了丰富
