@@ -18,7 +18,7 @@
 - **dowhy**: 专为因果推断设计，支持显式模型构建，直接适用于分析政治失败与深层结构之间的因果关
 ## 最新洞见
 
-> [Groq错误: HTTP Error 429: Too Many Requests]
+> [Groq错误: Remote end closed connection without response]
 
 ## 关于Qisi
 
