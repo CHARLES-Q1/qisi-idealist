@@ -18,7 +18,7 @@
 - **prophet**: 它是专门用于时间序列的高质量预测工具，最直接满足 Prophet 的需求。
 ## 最新洞见
 
-> [Groq错误: HTTP Error 429: Too Many Requests]
+> [Groq错误: Remote end closed connection without response]
 
 ## 关于Qisi
 
