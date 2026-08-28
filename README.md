@@ -11,11 +11,11 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **receipt-ocr**: receipt-ocr 专门为商业发票图像处理设计，能够有效识别文本，与 pyt
 - **scikit-learn**: scikit-learn 是一个专门针对机器学习的 Python 库，提供了丰富
 - **stylecloud**: stylecloud 可以生成具有样式和渐变的词云，这与画家视觉体验相关的词云最
 - **stylecloud**: stylecloud是一个Python包，可以生成样式化的词云，包括渐变色和图片
 - **dowhy**: 专为因果推断设计，支持显式模型构建，直接适用于分析政治失败与深层结构之间的因果关
+- **prophet**: 它是专门用于时间序列的高质量预测工具，最直接满足 Prophet 的需求。
 ## 最新洞见
 
 > [Groq错误: Remote end closed connection without response]
