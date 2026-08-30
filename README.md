@@ -16,6 +16,10 @@
 - **prophet**: 它是专门用于时间序列的高质量预测工具，最直接满足 Prophet 的需求。
 - **prophet**: 直接提供高质量的时间序列预测功能，最符合“使用 Prophet 进行时间序列预测
 - **ortools**: 该工具基于 Google OR‑Tools 实现组合优化（如切割库存问题），可直
+## 最新洞见
+
+> [Groq错误: HTTP Error 429: Too Many Requests]
+
 ## 关于Qisi
 
 Qisi是一个12腔室哲学AI系统，每个腔室拥有独特的认知性格。
