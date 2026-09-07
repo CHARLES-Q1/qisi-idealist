@@ -19,7 +19,7 @@
 - **prophet**: 官方的 Prophet 包专为高质量的时间序列预测与趋势分析设计，最直接满足需求
 ## 最新洞见
 
-> [Groq错误: HTTP Error 429: Too Many Requests]
+> [Groq错误: HTTP Error 403: Forbidden]
 
 ## 关于Qisi
 
