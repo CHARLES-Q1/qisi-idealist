@@ -17,9 +17,10 @@
 - **ortools**: 该工具基于 Google OR‑Tools 实现组合优化（如切割库存问题），可直
 - **prophet**: 它是专门用于高质量时间序列预测和趋势分析的工具，最直接满足需求。
 - **prophet**: 官方的 Prophet 包专为高质量的时间序列预测与趋势分析设计，最直接满足需求
+- **ruptures**: 直接提供高效的离线和在线变点检测算法，最适合用于识别市场相位的变换点。
 ## 最新洞见
 
-> [Groq错误: HTTP Error 429: Too Many Requests]
+> [Groq错误: <urlopen error _ssl.c:1063: The handshake operation timed out>]
 
 ## 关于Qisi
 
