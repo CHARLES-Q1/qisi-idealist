@@ -21,8 +21,7 @@
 - **langchain**: LangChain 本身就是专为构建、管理提示工程及底层推理链路而设计的代理工程
 ## 最新洞见
 
-> 稳定信念:  
-1. 
+> [Groq错误: HTTP Error 429: Too Many Requests]
 
 ## 关于Qisi
 
