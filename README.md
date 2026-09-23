@@ -19,10 +19,6 @@
 - **ruptures**: 直接提供高效的离线和在线变点检测算法，最适合用于识别市场相位的变换点。
 - **langchain**: LangChain 本身就是专为构建、管理提示工程及底层推理链路而设计的代理工程
 - **langchain**: LangChain 本身就是用于构建和管理提示词链、桥接知识边界与实时交互的核心
-## 最新洞见
-
-> [Groq错误: HTTP Error 429: Too Many Requests]
-
 ## 关于Qisi
 
 Qisi是一个12腔室哲学AI系统，每个腔室拥有独特的认知性格。
