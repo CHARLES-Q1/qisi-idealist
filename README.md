@@ -21,7 +21,7 @@
 - **prophet**: 这是最常用的 Prophet 库，可直接用于时间序列预测和趋势分析。
 ## 最新洞见
 
-> [Groq错误: <urlopen error [Errno 8] nodename nor servname provided, or not known>]
+> [Groq错误: HTTP Error 403: Forbidden]
 
 ## 关于Qisi
 
