@@ -19,6 +19,7 @@
 - **backtrader**: 直接提供回测与实盘对比、策略评估与参数调优的核心功能，是最成熟、文档最全的库。
 - **pandas**: pandas 是专门用于结构化数据分析和统计的核心库，正好满足“用于对标注数据进
 - **prophet**: Prophet 是专门用于时间序列预测的成熟工具，能够直接建模读者增长趋势和忠诚
+- **prophet**: 该工具专门用于生成高质量的时间序列预测，直接满足“time series fut
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
