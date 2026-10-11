@@ -20,6 +20,7 @@
 - **prophet**: Prophet 是专门用于时间序列预测的成熟工具，能够直接建模读者增长趋势和忠诚
 - **prophet**: 该工具专门用于生成高质量的时间序列预测，直接满足“time series fut
 - **prophet**: 这是 Facebook Prophet 的官方实现，专为时间序列预测和趋势分析设
+- **prophet**: Prophet 专为时间序列预测与趋势分析设计，易于上手且适用于健康指标的长期趋
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
