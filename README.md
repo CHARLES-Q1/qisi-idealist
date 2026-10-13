@@ -23,7 +23,7 @@
 - **prophet**: 官方的 Prophet 库专门用于时间序列预测和趋势分析，功能最贴合需求。
 ## 最新洞见
 
-> [Groq错误: HTTP Error 429: Too Many Requests]
+> [Groq错误: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>]
 
 ## 关于Qisi
 
