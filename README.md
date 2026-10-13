@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **prophet**: 这是最常用的 Prophet 库，可直接用于时间序列预测和趋势分析。
 - **backtrader**: 直接提供回测与实盘对比、策略评估与参数调优的核心功能，是最成熟、文档最全的库。
 - **pandas**: pandas 是专门用于结构化数据分析和统计的核心库，正好满足“用于对标注数据进
 - **prophet**: Prophet 是专门用于时间序列预测的成熟工具，能够直接建模读者增长趋势和忠诚
@@ -21,6 +20,7 @@
 - **rqalpha**: rqalpha 是一个可扩展的 Python 量化回测框架，内置对 TA‑Lib
 - **backtrader**: Backtrader 提供了完整的执行与滑点模拟功能，能直接缩小纸实差距。
 - **prophet**: 官方的 Prophet 库专门用于时间序列预测和趋势分析，功能最贴合需求。
+- **langchain**: LangChain 提供完整的 LLM 管道与工具链，可直接生成、评估并管理文本
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
