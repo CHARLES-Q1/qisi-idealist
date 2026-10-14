@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **rqalpha**: rqalpha 是一个可扩展的 Python 量化回测框架，内置对 TA‑Lib
 - **backtrader**: Backtrader 提供了完整的执行与滑点模拟功能，能直接缩小纸实差距。
 - **prophet**: 官方的 Prophet 库专门用于时间序列预测和趋势分析，功能最贴合需求。
 - **langchain**: LangChain 提供完整的 LLM 管道与工具链，可直接生成、评估并管理文本
