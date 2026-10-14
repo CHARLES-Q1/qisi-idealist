@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **prophet**: Prophet 专为时间序列预测与趋势分析设计，易于上手且适用于健康指标的长期趋
 - **rqalpha**: rqalpha 是一个可扩展的 Python 量化回测框架，内置对 TA‑Lib
 - **backtrader**: Backtrader 提供了完整的执行与滑点模拟功能，能直接缩小纸实差距。
 - **prophet**: 官方的 Prophet 库专门用于时间序列预测和趋势分析，功能最贴合需求。
@@ -21,6 +20,7 @@
 - **scikit-learn**: 它是最直接、成熟且广泛使用的 Python 机器学习库，提供丰富的预测模型和评估
 - **gradio**: Gradio 本身即为快速创建交互式 Web 界面的 Python 库，正好满足
 - **pytrends**: pytrends 提供了对 Google Trends 的完整接口，能够实时抓取
+- **statsforecast**: statsforecast 提供了多种统计与计量经济学模型，速度快且易于使用，可
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
