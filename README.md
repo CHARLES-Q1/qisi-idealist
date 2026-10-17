@@ -11,13 +11,13 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **gradio**: Gradio 本身即为快速创建交互式 Web 界面的 Python 库，正好满足
 - **pytrends**: pytrends 提供了对 Google Trends 的完整接口，能够实时抓取
 - **statsforecast**: statsforecast 提供了多种统计与计量经济学模型，速度快且易于使用，可
 - **econml**: econml 本身就是专门用于估计和量化因计费策略变化带来的经济收益的因果推断工
 - **scikit-image**: scikit-image 正是用于图像处理和视觉分析的核心库，能够直接满足该需求
 - **lifetimes**: 该包专门用于计算客户生命周期价值和留存预测，正好满足需求。
 - **networkx**: networkx 是最常用、功能最全的 Python 图分析库，能直接构建和分析
+- **scipy**: SciPy 提供了信号处理与时间序列分析的核心函数与工具，最直接满足需求。
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
