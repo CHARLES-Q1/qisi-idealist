@@ -18,6 +18,7 @@
 - **scipy**: SciPy 提供了信号处理与时间序列分析的核心函数与工具，最直接满足需求。
 - **econml**: EconML 专为因果推断和个体化效应估计设计，可直接用于评估客户可得利益的因果
 - **prophet**: 该工具专门用于多季节性时间序列预测，能直接生成视力衰退趋势与创作计划的预测模型。
+- **prophet**: 该工具正是 Facebook 的 Prophet 库，专门用于高质量的时间序列预
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
