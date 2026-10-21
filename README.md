@@ -20,6 +20,7 @@
 - **prophet**: 该工具专为时间序列预测和趋势分析设计，直接满足需求。
 - **prophet**: 它是专门用于时间序列预测和趋势分析的高质量预测库，最直接满足“prophet 用
 - **prophet**: 该工具专门用于时间序列趋势预测，功能成熟且广泛应用于经济深度建模。
+- **networkx**: networkx 是最通用、最成熟的 Python 图分析库，能够直接构建和分析
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
