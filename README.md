@@ -23,7 +23,7 @@
 - **prophet**: 该工具即 Facebook Prophet，专为时间序列趋势预测设计，直接满足需
 ## 最新洞见
 
-> [Groq错误: HTTP Error 429: Too Many Requests]
+> [Groq错误: HTTP Error 403: Forbidden]
 
 ## 关于Qisi
 
