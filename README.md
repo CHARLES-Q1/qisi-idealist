@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **networkx**: 直接提供构建、分析和可视化关系网络的功能，最适合用于政治实践者关系网络及其失败路
 - **textblob**: TextBlob 提供简单易用的情感分析接口，直接满足对心理失败叙述进行情感评分
 - **TextBlob**: TextBlob 能直接进行情感分析和词性标注，最适合心理文本的情感与矛盾倾向自
 - **pygraphviz**: 它提供了直接的 Python 接口来创建和渲染有向图，适合可视化业务矛盾关系并支
@@ -20,6 +19,7 @@
 - **prophet**: Prophet 是专为时间序列预测设计的高质量预测库，直接用于个人决策趋势分析。
 - **spacy**: spaCy 提供强大的深度语义解析和概念关联功能，适用于艺术哲学文本的高级分析。
 - **prophet**: 专为时间序列趋势预测设计，提供高质量的预测模型，最直接弥补该缺口。
+- **textblob**: TextBlob 直接提供情感分析功能，可用于检测文本中的情感倾向和孤独感。
 ## 最新洞见
 
 > [Groq错误: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>]
