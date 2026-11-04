@@ -22,7 +22,7 @@
 - **prophet**: 该工具专门用于生成高质量的时间序列预测，正好满足“prophet 用于时间序列预
 ## 最新洞见
 
-> [Groq错误: HTTP Error 429: Too Many Requests]
+> [Groq错误: <urlopen error [Errno 54] Connection reset by peer>]
 
 ## 关于Qisi
 
@@ -30,4 +30,4 @@ Qisi是一个12腔室哲学AI系统，每个腔室拥有独特的认知性格。
 通过持续的哲学辩论、人生模拟和工具学习，12腔室共同进化。
 
 ---
-*自动更新 · 2026-11-03*
+*自动更新 · 2026-11-04*
