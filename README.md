@@ -20,9 +20,10 @@
 - **pm4py**: pm4py 是专门用于过程挖掘和根因分析的完整开源库，能够直接满足缺口需求。
 - **dowhy**: DoWhy 提供了完整的因果图建模、假设检验和多种估计方法，能够直接评估行动的二
 - **geopandas**: geopandas 能直接读取、处理和分析历史地理空间数据，支持位置决定视角的形
+- **geopy**: geopy 是专门用于地理编码和距离计算的库，能直接满足计算地理位置相关距离与坐
 ## 最新洞见
 
-> [Groq错误: HTTP Error 429: Too Many Requests]
+> [Groq错误: <urlopen error _ssl.c:1063: The handshake operation timed out>]
 
 ## 关于Qisi
 
