@@ -23,7 +23,7 @@
 - **geopy**: geopy 是专门用于地理编码和距离计算的库，能直接满足计算地理位置相关距离与坐
 ## 最新洞见
 
-> [Groq错误: <urlopen error _ssl.c:1063: The handshake operation timed out>]
+> [Groq错误: HTTP Error 429: Too Many Requests]
 
 ## 关于Qisi
 
