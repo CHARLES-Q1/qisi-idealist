@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **statsmodels**: statsmodels 是专门用于回归分析和统计检验的库，能直接量化纸面与实盘表
 - **matplotlib**: matplotlib 是专门用于绘制可视化图表的 Python 库，能够直接生成
 - **jhTAlib**: 该库直接提供了 TA‑Lib 的 Python 接口，可计算威廉指标（WR）等多
 - **scikit-learn**: 它是最直接、成熟的 Python 机器学习库，提供丰富的模型和工具用于趋势预测和
@@ -19,6 +18,7 @@
 - **pandas**: pandas 是专为结构化数据整理与分析设计的库，最适合处理食品营养数据的清洗、
 - **prophet**: 该工具专为时间序列预测设计，能够捕捉趋势和边缘行为，最符合需求。
 - **prophet**: 直接提供高质量的时间序列预测和趋势分析，最符合需求。
+- **statsmodels**: 直接提供时间序列建模与趋势预测的完整功能。
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
