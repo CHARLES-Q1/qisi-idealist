@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **python-igraph**: 直接提供 igraph 的 Python 接口，可用于构建社交网络、执行社区检测
 - **statsmodels**: statsmodels 是专门用于回归分析和统计检验的库，能直接量化纸面与实盘表
 - **matplotlib**: matplotlib 是专门用于绘制可视化图表的 Python 库，能够直接生成
 - **jhTAlib**: 该库直接提供了 TA‑Lib 的 Python 接口，可计算威廉指标（WR）等多
