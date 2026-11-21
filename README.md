@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **statsmodels**: 直接提供时间序列建模与趋势预测的完整功能。
 - **causalml**: 直接提供提升模型（uplift modeling）和因果推断的机器学习实现，正好
 - **prophet**: Prophet 专为具有季节性和趋势的时间序列预测设计，直接用于收入和支出的增长
 - **textblob**: 直接提供文本情感分析功能，最符合需求。
@@ -20,6 +19,7 @@
 - **prophet**: Facebook Prophet 是最常用、易用的时间序列预测库，能直接支持未来
 - **langchain**: LangChain 提供了高级 Prompt 模板、Prompt 管理和多 LL
 - **matplotlib**: 直接提供绘制冰川消融趋势所需的图表功能。
+- **nltk**: NLTK 是最常用的自然语言处理库，能够提供分词、词性标注、情感分析等功能，直接
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
