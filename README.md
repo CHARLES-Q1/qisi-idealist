@@ -19,6 +19,7 @@
 - **prophet**: 该工具专为时间序列预测与趋势建模设计，功能完整且被广泛使用。
 - **prophet**: Facebook Prophet 是最常用、易用的时间序列预测库，能直接支持未来
 - **langchain**: LangChain 提供了高级 Prompt 模板、Prompt 管理和多 LL
+- **matplotlib**: 直接提供绘制冰川消融趋势所需的图表功能。
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
