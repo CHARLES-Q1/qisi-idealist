@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **prophet**: 直接提供高质量的时间序列预测和趋势分析，最符合需求。
 - **statsmodels**: 直接提供时间序列建模与趋势预测的完整功能。
 - **causalml**: 直接提供提升模型（uplift modeling）和因果推断的机器学习实现，正好
 - **prophet**: Prophet 专为具有季节性和趋势的时间序列预测设计，直接用于收入和支出的增长
@@ -19,6 +18,7 @@
 - **transformers**: 该库提供预训练模型和工具，可直接用于分析GPT生成文本的语言模式和潜在影响。
 - **prophet**: 该工具专为时间序列预测与趋势建模设计，功能完整且被广泛使用。
 - **prophet**: Facebook Prophet 是最常用、易用的时间序列预测库，能直接支持未来
+- **langchain**: LangChain 提供了高级 Prompt 模板、Prompt 管理和多 LL
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
