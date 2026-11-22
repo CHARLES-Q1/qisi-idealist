@@ -18,6 +18,7 @@
 - **langchain**: LangChain 提供了高级 Prompt 模板、Prompt 管理和多 LL
 - **matplotlib**: 直接提供绘制冰川消融趋势所需的图表功能。
 - **nltk**: NLTK 是最常用的自然语言处理库，能够提供分词、词性标注、情感分析等功能，直接
+- **nltk**: NLTK 提供完整的文本处理、情感分析和关键词提取功能，直接满足对谈判文本的情感
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
