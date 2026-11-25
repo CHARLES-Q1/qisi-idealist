@@ -20,6 +20,7 @@
 - **statsmodels**: statsmodels 提供丰富的时间序列分析、统计检验和模型加权功能，直接满足
 - **networkx**: 直接提供构建、分析社交关系网络的功能，适合评估孤独和人际互动模式。
 - **ruptures**: ruptures 是专门用于时间序列的变点检测，能够直接识别市场结构的相位变化和
+- **prophet**: 该包专门用于多元时间序列预测，支持季节性、趋势和节假日效应，适合用于市场趋势及失
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
